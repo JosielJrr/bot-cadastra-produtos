@@ -1,6 +1,6 @@
 # ⚙️ Automação de Cadastro de Produtos
 
-Este projeto automatiza o cadastro de produtos em um sistema web usando Python e PyAutoGUI. A ideia é facilitar tarefas repetitivas, preenchendo formulários com base em uma planilha CSV, sem precisar inserir dados manualmente.
+Este projeto automatiza o cadastro de produtos em um sistema web usando a lib PyAutoGUI. A ideia é facilitar tarefas repetitivas, preenchendo formulários com base em uma planilha CSV, sem precisar inserir dados manualmente.
 
 ## 🚀 Como funciona
 
